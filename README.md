@@ -51,3 +51,7 @@ Error Handling with Try-Except
 
 Custom error messages are displayed if the recognition fails due to audio clarity or API issues, ensuring a user-friendly experience.
 
+OUTPUT
+
+<img width="800" height="250" alt="Image" src="https://github.com/user-attachments/assets/e4e13d9e-ee82-41b3-be4e-a31570e11e49" />
+
